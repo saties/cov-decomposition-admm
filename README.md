@@ -1,2 +1,2 @@
-# cov_decomposition_admm
-Decompose a covariance matrix into lowrank and sparse components using ADMM algorithm.
+# Covariance Decomposition via ADMM
+Decompose a covariance matrix into lowrank and sparse components using ADMM algorithm. Source archive.
